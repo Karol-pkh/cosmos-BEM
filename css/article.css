@@ -1,0 +1,24 @@
+.article {
+  text-align: center;
+}
+
+.article__title {
+  margin-top: 60px;
+  text-decoration: 1px underline;
+}
+
+.article__text {
+  text-align: justify;
+  padding: 10px;
+  line-height: 1.5;
+}
+
+.article__start {
+  font-weight: bold;
+}
+
+.article__image {
+  max-width: 700px;
+  width: 100%;
+  padding-bottom: 50px;
+}

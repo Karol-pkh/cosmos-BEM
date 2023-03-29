@@ -1,0 +1,20 @@
+.planets {
+  padding: 10px;
+}
+
+.planets__title {
+  text-align: center;
+  text-shadow: 1px 1px 1px #474441;
+  margin-bottom: 100px;
+}
+
+.planets__description {
+  margin-bottom: 100px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.planets__photo {
+  max-width: 300px;
+  width: 100%;
+}

@@ -1,0 +1,28 @@
+.backToNavigation {
+  text-align: center;
+}
+
+.backToNavigation__internalLink {
+  color: #000000;
+  text-decoration: none;
+  background-color: hsl(66, 64%, 87%);
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: 700;
+}
+
+.backToNavigation__internalLink:visited {
+  color: #542309;
+}
+
+.backToNavigation__internalLink:focus {
+  outline: 1px solid #8e0202;
+}
+
+.backToNavigation__internalLink:hover {
+  color: #101bf3;
+}
+
+.backToNavigation__internalLink:active {
+  color: #d5580b;
+}

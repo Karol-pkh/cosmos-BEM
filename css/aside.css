@@ -1,0 +1,20 @@
+.aside__list {
+  text-align: center;
+  list-style: none;
+  padding: 0;
+}
+
+.aside_title {
+  text-align: center;
+  font-weight: 700;
+}
+
+.aside__listItem {
+  margin: 10px;
+  background-color: #faebd7;
+  padding: 10px;
+}
+
+.aside__externalLink {
+  color: #6a0b49;
+}

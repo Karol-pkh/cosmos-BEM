@@ -1,0 +1,16 @@
+.section {
+  margin: 50px 0;
+  background-color: #eeeeee;
+  color: #000000;
+  text-align: center;
+  padding: 50px;
+}
+
+.section__container {
+  overflow-x: auto;
+}
+
+.section--dark {
+  background-color: #424242;
+  color: #eee;
+}

@@ -1,0 +1,19 @@
+.button {
+  text-align: right;
+}
+
+.button__style {
+  margin: 10px;
+  padding: 8px;
+  color: #000000;
+  background-color: #f0ffff;
+  font-weight: 700;
+  border: 1px solid #524a4a;
+  border-radius: 15px;
+  width: 150px;
+  
+}
+
+.button__style:hover{
+  background-color: #e0ffff;
+}
